@@ -2,7 +2,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Dr. Shakilur Rahman</title>
+<title>Shakilur Rahman</title>
 <style>
 body{font-family:Arial,sans-serif;margin:0;line-height:1.6;color:#333}
 header{background:#0b3d5c;color:white;padding:60px 20px;text-align:center}
