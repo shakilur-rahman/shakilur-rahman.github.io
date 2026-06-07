@@ -19,7 +19,7 @@ a{color:#0b3d5c}
 
 <header>
 <div class="hero">
-<img src="profile.jpg" alt="Dr. Shakilur Rahman">
+<img src="profile.jpeg" alt="Dr. Shakilur Rahman">
 <h1>Dr. Shakilur Rahman</h1>
 <p>Postdoctoral Researcher | Structural Biology | Cryo-EM | X-ray Crystallography</p>
 <p>Institut Pasteur, Paris, France</p>
